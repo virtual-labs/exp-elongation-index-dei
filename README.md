@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>-
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Concrete Technology
+<b> Experiment|     <b> exp-elongation-index-dei and number here
 
 ### About the Experiment 
 
@@ -12,13 +12,12 @@ Fill a brief description of this experiment here
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b> Ishant Singhal 
+<b> Email id|     <b>  --
+<b> Department |  Civil Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Nihalsarandas Duggirala | Student | Mechanical | Dayalbagh Educational Institute | nihalsarandasd@gmail.com
