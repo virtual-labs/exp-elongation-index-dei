@@ -50,10 +50,10 @@ main{
     position: absolute;
     display: inline-block;
     text-align: justify;
-    top: 100px;
+    top: 88px;
     left: 175px;
     width: 610px;
-    font-size: 18px;
+    font-size: 13.5px;
 }
 
 .instruction-main{

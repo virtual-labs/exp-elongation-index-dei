@@ -180,7 +180,9 @@ trans9Step3.addEventListener("click", (evt) => {
      }, 3000);
 });
 
-
+nextToStep4.addEventListener("click", (evt) => {
+    window.location.href = "./step4.html";
+});
 
 
 
