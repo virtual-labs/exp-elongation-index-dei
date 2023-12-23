@@ -54,7 +54,7 @@ const nextToStep6 = document.querySelector("#nextToStep6");
 
 addEventListener("DOMContentLoaded", (evt) => {
     step5.style.visibility = "visible";
-    instructionsStep5.textContent = "Pass the aggregates that have retained on 20mm sieve one by one through the 25-20mm slot in flakiness gauge. Separate the  aggregates that have passed from the ones that have not passed the flakiness gauge."
+    instructionsStep5.textContent = "Again pass the aggregates that have retained on 12.5 mm sieve one by one through the 16-12.5mm slot in elongation gauge. Separate the aggregates that have passed from the ones that have not passed the elongation gauge."
     png1Step5.style.visibility = "visible";
     arr1Step5.style.visibility = "visible";
     trans1Step5.style.visibility = "visible";
@@ -159,6 +159,7 @@ trans8Step5.addEventListener("click", (evt) => {
     gif8Step5.style.visibility = "visible";
 
     setTimeout(() => {
+        instructionsStep5.textContent = "Weigh the aggregates that have passed through the 16-12.5mm slot on the elongation gauge."
         gif8Step5.style.visibility = "hidden";
         trans9Step5.style.visibility = "visible";
         arr9Step5.style.visibility = "visible";

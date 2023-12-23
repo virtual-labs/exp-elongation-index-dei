@@ -23,7 +23,7 @@
     position: absolute;
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
-    top: 500px;
+    top: 430px;
     left: 90px;
     width: 600px;
     text-align: justify;
@@ -143,3 +143,43 @@
     left: 600px;
 }
 
+
+#png2Step8{
+    top: 102px;
+    left: 75px;
+}
+
+#png3Step8{
+    top: 102px;
+    left: 75px;
+}
+
+#png4Step8{
+    top: 102px;
+    left: 75px;
+}
+
+#png5Step8{
+    top: 102px;
+    left: 75px;
+}
+
+#png6Step8{
+    top: 102px;
+    left: 75px;
+}
+
+#png7Step8{
+    top: 102px;
+    left: 75px;
+}
+
+#png8Step8{
+    top: 102px;
+    left: 75px;
+}
+
+#png9Step8{
+    top: 102px;
+    left: 75px;
+}
