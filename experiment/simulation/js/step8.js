@@ -43,7 +43,7 @@ const png9Step8 = document.querySelector("#png9Step8");
 
 addEventListener("DOMContentLoaded", (evt) =>{
     step8.style.visibility = "visible";
-    instructionsStep8.textContent = "Result.";
+    instructionsStep8.textContent = "Record the weight of aggregates passing through different slots on the elongation gauge and calculate the elongation index of the given sample of coarse aggregates.";
     png1Step8.style.visibility = "visible";
     trans1Step8.style.visibility = "visible";
     arr1Step8.style.visibility = "visible";
