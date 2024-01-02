@@ -124,8 +124,9 @@ trans6Step4.addEventListener("click", (evt) => {
      setTimeout(() => {
          gif6Step4.style.visibility = "hidden";
 
-         instructionsStep4.visibility = "Now weigh the aggregates that have passed through the 20-16mm slot on the elongation gauge."
+         
          png2Step4.style.visibility = "visible";
+         instructionsStep4.textContent = "Weigh the aggregates that have passed through the 20-16mm slot on the elongation gauge."
          trans7Step4.style.visibility = "visible";
          arr7Step4.style.visibility = "visible";
      }, 8500);
