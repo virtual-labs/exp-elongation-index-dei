@@ -25,16 +25,19 @@
         "b": "Steel ",
         "c": "Bricks  ",
         "d": "None of the above "
+        
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
+        
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+
     {
       "question": "What is the recommended maximum elongation index for aggregates used in asphalt concrete",
       "answers": {
@@ -52,6 +55,7 @@
       "correctAnswer": "c",
       "difficulty": "Intermediate"  
     },
+
     {
       "question": "Which of the following statement is correct",
       "answers": {
@@ -62,13 +66,14 @@
       },
       "explanations": {
         "a": "Explanation 1  ",
-        "b": "Explanation 2",
-        "c": "Explanation 2  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2  <a href='www.google.com'>here</a>",
+        "c": "Explanation 2  ",
         "d": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "Intermediate"
     },
+
     {
       "question": "An aggregate sample has an elongation index of 15%. If the weight of particles retained on the 25 mm sieve is 225g, calculate the weight of aggregates passing through the sieve",
       "answers": {
@@ -86,6 +91,7 @@
       "correctAnswer": "d",
       "difficulty": "Advanced"
     },
+
     {
       "question": "The total weight of aggregate sample is 1850 g and the weight of the aggregates passing through the 25 mm sieve is found to be 1200 g. Calculate the elongation index of the sample",
       "answers": {
@@ -103,5 +109,20 @@
       "correctAnswer": "b",
       "difficulty": "Advanced"
     }
+    
+   
+
   ]
 }
+
+
+
+
+
+    
+
+   
+
+
+
+
