@@ -1,2 +1,2 @@
-## Experiment name Elongation Index
+## Elongation Index
 
