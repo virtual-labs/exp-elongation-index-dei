@@ -10,7 +10,7 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Ishant Singhal
+<b>Name of Developer | <b> Dr. Ishant Singhal
 :--|:--|
 <b> Institute | <b> Dayalbagh Educational Institute
 <b> Email id|     <b>  ishantsinghal@gmail.com
