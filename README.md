@@ -1,23 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>-
+<b>Discipline | <b>Civil Engineering
 :--|:--|
 <b> Lab | <b> Concrete Technology
-<b> Experiment|     <b> exp-elongation-index-dei and number here
+<b> Experiment|     <b> Elongation Index of Coarse Aggregates
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Ishant Singhal
 :--|:--|
-<b> Institute | <b> Ishant Singhal 
-<b> Email id|     <b>  --
+<b> Institute | <b> Dayalbagh Educational Institute
+<b> Email id|     <b>  ishantsinghal@gmail.com
 <b> Department |  Civil Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Nihalsarandas Duggirala | Student | Mechanical | Dayalbagh Educational Institute | nihalsarandasd@gmail.com
+1 | Nihalsarandas Duggirala | Student | Mechanical Engineering | Dayalbagh Educational Institute | nihalsarandasd@gmail.com
+2 | Ana Rehman | Student | Civil Engineering | Dayalbagh Educational Institute | anarehmanana@gmail.com
