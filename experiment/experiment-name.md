@@ -1,2 +1,2 @@
-## Elongation Index
+## Elongation Index of the Coarse Aggregate
 
