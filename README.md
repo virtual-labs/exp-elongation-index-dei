@@ -1,6 +1,7 @@
 ## Introduction
 
 
+
 <b>Discipline | <b> Civil Engineering
 :--|:--|
 <b> Lab | <b> Concrete Technology
@@ -14,11 +15,12 @@ Fill a brief description of this experiment here
 :--|:--|
 <b> Institute | <b>  Dayalbagh Educational Institute
 <b> Email id|     <b>  ishantsinghal@dei.ac.in
-<b> Department |  Civil Engineering
+
 
 ### Contributors List
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
+
 1 | Nihalsarandas Duggirala | Student | Mechanical | Dayalbagh Educational Institute | nihalsarandasd@gmail.com
 2 | Ana Rehman | Student | Civil Engineering | Dayalbagh Educational Institute | anarhemanana@gmail.com
 3 | Shyamendra Singh | Student | Agricultural Engineering | Dayalbagh Educational Institute | shyamendra.me@gmail.com
