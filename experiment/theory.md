@@ -8,15 +8,11 @@
   };
 </script>
 
-### THEORY
+### Introduction
 
 The elongation index of an aggregate is the percentage by weight of particles whose greatest dimension (length) is greater than 1.8 times their mean dimension. It quantifies the proportion of needle-shaped or elongated particles in coarse aggregate samples.
 
-### PURPOSE
-
-To assess the shape characteristics of coarse aggregates, ensuring optimal particle geometry for concrete workability, compaction efficiency, and structural performance in pavement and concrete construction.
-
-### MECHANISM
+### Mechanism
 
 The test evaluates particle shape through dimensional comparison:
 
@@ -48,14 +44,12 @@ This assessment identifies particles that:
 - Demonstrate preferential fracture planes  
 - Reduce aggregate packing efficiency by 10–20%  
 
----
-
-### FORMULAS
+### Formulas
 
 #### 1. Individual Fraction Elongation Index
 
 $$
-\text{Elongation Index of Fraction (\%)} =
+\text{Elongation Index of Fraction} =
 \frac{W_e}{W_t} \times 100
 $$
 
@@ -66,7 +60,7 @@ Where:
 #### 2. Overall Elongation Index
 
 $$
-\text{Overall Elongation Index (\%)} =
+\text{Overall Elongation Index} =
 \frac{\sum W_e}{\sum W_t} \times 100
 $$
 
@@ -77,7 +71,7 @@ Where:
 #### 3. Weighted Average Method
 
 $$
-\text{Weighted Elongation Index (\%)} =
+\text{Weighted Elongation Index} =
 \frac{\sum (P_i \times E_i)}{100}
 $$
 
