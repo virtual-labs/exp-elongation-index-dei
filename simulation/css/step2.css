@@ -1,0 +1,92 @@
+/* Step2 */
+
+/* BUTTONS  */
+
+.assemble{
+    visibility: hidden;
+    padding: 5px 7px;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    background-color: rgb(20, 117, 228);
+    font-size: 17px;
+    position: absolute;
+    top: 470px;
+    left: 360px;
+}
+
+/* ARROWS  */
+
+#arr1Step2{
+    top: 470px;
+    left: 310px;
+}
+
+#arr2Step2{
+    top: 300px;
+    left: 80px;
+}
+
+#arr3Step2{
+    top: 140px;
+}
+
+#arr4Step2{
+    top: 350px;
+}
+
+#arr5Step2{
+    top: 423px;
+    left: 430px;
+}
+
+#arr6Step2{
+    top: 165px;
+    left: 580px;
+}
+
+#arr7Step2{
+    top: 350px;
+    left: 50px;
+}
+
+/* TRANSBOXES  */
+
+#trans1Step2{
+    top: 290px;
+    left: 130px;
+    width: 160px;
+    height: 60px;
+}
+
+#trans2Step2{
+    top: 130px;
+    left: 60px;
+    width: 160px;
+    height: 40px;
+}
+
+#trans3Step2, #trans6Step2{
+    top: 280px;
+    left: 60px;
+    width: 160px;
+    height: 230px;
+}
+
+#trans4Step2{
+    top: 423px;
+    left: 477px;
+    width: 20px;
+    height: 20px;
+}
+
+#trans5Step2{
+    top: 155px;
+    left: 400px;
+    width: 180px;
+    height: 40px;
+}
+
+#trans6Step2{
+    left: 105px;
+}
