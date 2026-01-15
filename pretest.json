@@ -1,0 +1,154 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following aggregates tend to show more elongation index? ",
+      "answers": {
+        "a": "Cubical ",
+        "b": "Flaky ",
+        "c": "Both of the above ",
+        "d": "Angular "
+      },
+      "explanations": {
+        "a": "Explanation 1  ",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=V_KpeEem0kM'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the effect of elongated particles on the workability of concrete?",
+      "answers": {
+        "a": "Workability increases  ",
+        "b": "Workability decreases ",
+        "c": "No change  ",
+        "d": "Workability first decreases then increases  "
+      },
+      "explanations": {
+        "a": "Explanation 1  ",
+        "b": "Explanation 2  <a href='https://m.youtube.com/watch?v=L0LN_0Ac8SI'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Elongation index is concerned with the _____ dimension of aggregate particles",
+      "answers": {
+        "a": "Length ",
+        "b": "Width",
+        "c": "Volumetric ",
+        "d": "None of the above "
+      },
+      "explanations": {
+        "a": "Explanation 1  ",
+        "b": "Explanation 2  ",
+        "c": "Explanation 2",
+        "d": "Explanation 2  <a href='https://www.youtube.com/watch?v=kuGsPBfLUBU'>here</a>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The elongated particles are more likely to cause increased risk of segregation in concrete. ",
+      "answers": {
+        "a": "True ",
+        "b": "False "
+      },
+      "explanations": {
+        "a": "Explanation 1 <a href='https://m.youtube.com/watch?v=42fe63Lys0U'>here</a> ",
+        "b": "Explanation 2  "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following shapes of aggregates has the lowest elongation index?",
+      "answers": {
+        "a": "Elongated particles ",
+        "b": "Cubical particles ",
+        "c": "Flaky particles ",
+        "d": "Rod-shaped particles "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=V_KpeEem0kM'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens to the durability of asphalt pavement when elongated aggregates are used?",
+      "answers": {
+        "a": "Durability increases ",
+        "b": "Durability decreases ",
+        "c": "No effect on durability ",
+        "d": "Durability depends on cement type "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=V_KpeEem0kM'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which property of aggregate shape affects the packing density in concrete mixes?",
+      "answers": {
+        "a": "Color of aggregate ",
+        "b": "Texture of aggregate ",
+        "c": "Elongation and flakiness index ",
+        "d": "Moisture content "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3 <a href='https://www.youtube.com/watch?v=V_KpeEem0kM'>here</a>",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "An elongation index test checks particles that are retained on which sieve?",
+      "answers": {
+        "a": "6.3 mm sieve ",
+        "b": "12.5 mm sieve ",
+        "c": "25 mm sieve ",
+        "d": "40 mm sieve "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3 <a href='https://www.youtube.com/watch?v=V_KpeEem0kM'>here</a>",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How do elongated aggregates affect the strength of concrete?",
+      "answers": {
+        "a": "Increases compressive strength ",
+        "b": "Decreases compressive strength ",
+        "c": "No effect on strength ",
+        "d": "Increases tensile strength only "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://m.youtube.com/watch?v=L0LN_0Ac8SI'>here</a>",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

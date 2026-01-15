@@ -1,0 +1,44 @@
+
+/home/runner/work/exp-elongation-index-dei/exp-elongation-index-dei/experiment/simulation/js/main.js
+  18:7   warning  'gif4Step1' is assigned a value but never used    no-unused-vars
+  19:7   warning  'gif5Step1' is assigned a value but never used    no-unused-vars
+  20:7   warning  'gif6Step1' is assigned a value but never used    no-unused-vars
+  26:7   warning  'arr4Step1' is assigned a value but never used    no-unused-vars
+  32:7   warning  'trans4Step1' is assigned a value but never used  no-unused-vars
+  40:39  warning  'evt' is defined but never used                   no-unused-vars
+  99:40  warning  'evt' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-elongation-index-dei/exp-elongation-index-dei/experiment/simulation/js/step2.js
+   44:39  warning  'evt' is defined but never used  no-unused-vars
+  150:40  warning  'evt' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-elongation-index-dei/exp-elongation-index-dei/experiment/simulation/js/step3.js
+   34:7   warning  'arr10Step3' is assigned a value but never used    no-unused-vars
+   47:7   warning  'trans10Step3' is assigned a value but never used  no-unused-vars
+   55:39  warning  'evt' is defined but never used                    no-unused-vars
+  184:40  warning  'evt' is defined but never used                    no-unused-vars
+
+/home/runner/work/exp-elongation-index-dei/exp-elongation-index-dei/experiment/simulation/js/step4.js
+   42:39  warning  'evt' is defined but never used  no-unused-vars
+  151:40  warning  'evt' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-elongation-index-dei/exp-elongation-index-dei/experiment/simulation/js/step5.js
+   34:7   warning  'arr10Step5' is assigned a value but never used    no-unused-vars
+   47:7   warning  'trans10Step5' is assigned a value but never used  no-unused-vars
+   55:39  warning  'evt' is defined but never used                    no-unused-vars
+  184:40  warning  'evt' is defined but never used                    no-unused-vars
+
+/home/runner/work/exp-elongation-index-dei/exp-elongation-index-dei/experiment/simulation/js/step6.js
+   42:39  warning  'evt' is defined but never used  no-unused-vars
+  150:40  warning  'evt' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-elongation-index-dei/exp-elongation-index-dei/experiment/simulation/js/step7.js
+   42:39  warning  'evt' is defined but never used  no-unused-vars
+  150:40  warning  'evt' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-elongation-index-dei/exp-elongation-index-dei/experiment/simulation/js/step8.js
+   44:39  warning  'evt' is defined but never used  no-unused-vars
+  139:43  warning  'evt' is defined but never used  no-unused-vars
+
+✖ 25 problems (0 errors, 25 warnings)
+
