@@ -108,6 +108,78 @@
       },
       "correctAnswer": "b",
       "difficulty": "Advanced"
+    },
+
+    {
+      "question": "Elongation index of aggregates is defined as the percentage by weight of particles whose length is greater than which of the following?",
+      "answers": {
+        "a": "1.8 times their mean dimension ",
+        "b": "2.5 times their mean dimension ",
+        "c": "1.5 times their mean dimension ",
+        "d": "2.0 times their mean dimension "
+      },
+      "explanations": {
+        "a": "Explanation 1 <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "If an aggregate sample has a total weight of 500 g and the weight of elongated particles is 75 g, what is the elongation index?",
+      "answers": {
+        "a": "10% ",
+        "b": "15% ",
+        "c": "20% ",
+        "d": "25% "
+      },
+      "explanations": {
+        "a": "Calculation: (75/500) × 100 = 15%",
+        "b": "Calculation: (75/500) × 100 = 15% <a href='www.google.com'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Intermediate"
+    },
+
+    {
+      "question": "Which sieve is typically used for the elongation index test to separate elongated particles from the aggregate sample?",
+      "answers": {
+        "a": "10 mm sieve ",
+        "b": "25 mm sieve ",
+        "c": "50 mm sieve ",
+        "d": "75 mm sieve "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='www.google.com'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "An aggregate sample of 2000 g contains elongated particles weighing 320 g. If the elongation index requirement for high-quality aggregates is a maximum of 20%, does this sample meet the requirement?",
+      "answers": {
+        "a": "Yes, the elongation index is 16% which is within the limit ",
+        "b": "No, the elongation index is 32% which exceeds the limit ",
+        "c": "Yes, the elongation index is 20% which matches exactly ",
+        "d": "No, the elongation index is 24% which exceeds the limit "
+      },
+      "explanations": {
+        "a": "Calculation: (320/2000) × 100 = 16%, which is less than 20% <a href='www.google.com'>here</a>",
+        "b": "Incorrect calculation",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "Advanced"
     }
     
    
