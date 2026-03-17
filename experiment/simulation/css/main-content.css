@@ -50,10 +50,20 @@ main{
     position: absolute;
     display: inline-block;
     text-align: justify;
-    top: 88px;
-    left: 175px;
+    top: 70px;
+    left: 170px;
     width: 610px;
-    font-size: 13.5px;
+    font-size: 18px;
+}
+
+.instruments1{
+    position: absolute;
+    display: inline-block;
+    text-align: justify;
+    top: 120px;
+    left: 150px;
+    width: 610px;
+    font-size: 18px;
 }
 
 .instruction-main{
