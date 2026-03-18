@@ -80,13 +80,13 @@
         "a": "1130 g ",
         "b": "700 g ",
         "c": "500 g ",
-        "d": "900 g "
+        "d": "1275 g "
       },
       "explanations": {
         "a": "Explanation 1  ",
         "b": "Explanation 2",
         "c": "Explanation 2  ",
-        "d": "Explanation 2  <a href='www.google.com'>here</a>"
+        "d": "Calculation: Elongation index = (weight retained / total weight) × 100% = 15%, so total weight = 225 / 0.15 = 1500 g, weight passing through sieve = 1500 - 225 = 1275 g"
       },
       "correctAnswer": "d",
       "difficulty": "Advanced"
