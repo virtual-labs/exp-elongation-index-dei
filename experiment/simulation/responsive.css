@@ -1,0 +1,59 @@
+/* ================================
+   RESPONSIVE SCALING — STEP 2 FINAL
+   ================================ */
+
+.sim-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+/* MOBILE */
+@media (max-width: 575px) {
+  .simulation-container {
+    zoom: 40%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* SMALL DEVICES */
+@media (min-width: 576px) and (max-width: 767px) {
+  .simulation-container {
+    zoom: 65%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* TABLETS */
+@media (min-width: 768px) and (max-width: 991px) {
+  .simulation-container {
+    zoom: 80%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* SMALL DESKTOP */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .simulation-container {
+    zoom: 90%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* LANDSCAPE FIX */
+@media (max-width: 767px) and (orientation: landscape) {
+  .simulation-container {
+    zoom: 55%;
+  }
+}
+
+/* SAFETY */
+body {
+  overflow-x: hidden;
+}
